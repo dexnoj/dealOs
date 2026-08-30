@@ -11,4 +11,3 @@ void kernel_main(void) {
         print_char(msg[i], i, 0);
     }
     while (1) {}
-}
